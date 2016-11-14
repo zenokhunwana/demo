@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Warranty Checker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnname">BTE</string>
+    <string  name="btname2">ITE</string>
+    <string  name="btname3">ACCESSORIES</string>
+    <string name="msg"></string>
+    <string name="bte_warranty">BTE WARRANTY</string>
+    <string name="enter_date_purchase">ENTER DATE OF PURCHASE</string>
+   <string name="ite_warranty">ITE WARRANTY</string>
+   <string name="accesories">ACCESSORIES</string>
+      <string name="searchit">SEARCH</string>
+       <string name="app_label">Warranty Checker</string>
+ <string name="search_hint">search with serialN0 </string>
+  <string name="search">search</string>
+   <string name="title">ENTER YOUR SEARCH HERE</string>
+
+</resources>
